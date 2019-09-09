@@ -1,5 +1,0 @@
-token=YourtokenNigga
-owner=OwnerId
-prefix=YOurprefix
-stayinchannel=true
-
